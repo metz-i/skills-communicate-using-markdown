@@ -14,10 +14,11 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+-[x] to-do item #1
+-[] to-do item #2
 
 
-
-Added git and js code blocks
+Added to-do list
 
 
 
