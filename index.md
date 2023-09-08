@@ -6,12 +6,18 @@ normal text
 
 ![pamukkale](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Pamukkale_30.jpg/520px-Pamukkale_30.jpg)
 
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+``` javascript
+var myVar = "Hello, world!";
+```
 
 
 
-
-Added a big header and small header for comparison. 
-Added image of Pamukkale
+Added git and js code blocks
 
 
 
